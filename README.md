@@ -16,3 +16,4 @@
 >>>>### Favorite quote: *Never, say never:exclamation:* 
 #### Contacts:
 ### :telephone_receiver:   +992 917575250 (zet-mobile) 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NekruzRakhimov&show_icons=true&hide_title=true" alt="NekruzRakhimov" /></p>
