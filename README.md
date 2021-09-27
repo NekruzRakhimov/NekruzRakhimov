@@ -17,5 +17,5 @@
 #### Contacts:
 ### :telephone_receiver:   +992 917575250 (zet-mobile) 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NekruzRakhimov&show_icons=true&hide_title=true" alt="NekruzRakhimov" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NekruzRakhimov&show_icons=true&hide_title=true" alt="NekruzRakhimov" /></p> <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekruzRakhimov" alt="NekruzRakhimov" /></p>
