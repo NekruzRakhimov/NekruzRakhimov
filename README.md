@@ -5,7 +5,7 @@
 
 >### Languages:
 >
->>| Tajik :heartbeat: | Russian :ru:    |    English :us   | 
+>>| Tajik :heartbeat: | Russian :ru:    |    English :us:   | 
 >>| :---------------: | :-------------: | :---------------:|
 >>|       Native      |    Native       |      Advance     |
 >>|      100 %        |    100 %        |        95 %      | 
