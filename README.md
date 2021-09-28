@@ -5,10 +5,10 @@
 
 >### Languages:
 >
->>| Tajik :heartbeat: | Russian :ru:    |    English :us:   | 
->>| :---------------: | :-------------: | :---------------:|
->>|       Native      |    Native       |      Advance     |
->>|      100 %        |    100 %        |        95 %      | 
+>| Tajik :heartbeat: | Russian :ru:    |    English :us:   | 
+>| :---------------: | :-------------: | :---------------:|
+>|       Native      |    Native       |      Advance     |
+>|      100 %        |    100 %        |        95 %      | 
 
 >### Speciality: Ful-Stack Web-programmer :city_sunrise:
 >### Love & hobby: PROGRAMMING :computer:
