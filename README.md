@@ -17,12 +17,13 @@
 #### Contacts:
 ### :telephone_receiver:   +992 917575250 (zet-mobile) 
 
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NekruzRakhimov&show_icons=true&hide_title=true" alt="NekruzRakhimov" /></p> <br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekruzRakhimov" alt="NekruzRakhimov" /></p> -->
+<p width="100%">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NekruzRakhimov&show_icons=true&hide_title=true" alt="NekruzRakhimov" /></p> <br>
+<p  width="100%">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekruzRakhimov" alt="NekruzRakhimov" /></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NekruzRakhimov&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NekruzRakhimov&repo=convoychat" />
 </a>
+ -->
