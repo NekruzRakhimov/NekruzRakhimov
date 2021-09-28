@@ -11,7 +11,7 @@
 >>|      100 %        |    100 %        |        95 %      | 
 
 >### Speciality: Ful-Stack Web-programmer :city_sunrise:
->### Love & hobi: PROGRAMMING :computer:
+>### Love & hobby: PROGRAMMING :computer:
 >## DREAM: To be the richest man in the World 
 >### Favorite quote: *Never, say never:exclamation:* 
 #### Contacts:
